@@ -1,0 +1,6 @@
+{
+  "name": "Fabricant Industriel de Roulements | HBSJ & USJ BEARING",
+  "description": "Fabricant direct de roulements industriels de précision dans nos usines en Chine aux normes et qualité européennes. Catalogue officiel USJ & HBSJ et export mondial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
